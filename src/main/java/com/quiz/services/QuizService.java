@@ -7,7 +7,7 @@ import java.util.List;
 public interface QuizService {
 
 
-    Quiz add( Quiz quiz);
+    Quiz add(Quiz quiz);
 
     List<Quiz> get();
 
